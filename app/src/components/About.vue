@@ -8,7 +8,7 @@
           class="bg-gray-700 h-[450px] w-[450px] flex items-center justify-center"
         >
           <img
-            src="../assets/images/WhatsApp Image 2024-05-28 at 11.25.37_8a2719e9.jpg"
+            src="../assets/images/me.jpg"
             alt="Description of image"
             class="h-full w-full object-cover"
           />
